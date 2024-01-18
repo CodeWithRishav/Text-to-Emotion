@@ -4,7 +4,7 @@ Text to Emotion Detection is a project that aims to classify the emotions expres
 Installation
 To use this project, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/text-to-emotion-detection.git
+Clone the repository: git clone https://github.com/codewithrishav/text-to-emotion-detection.git
 Install the required dependencies: pip install -r requirements.txt
 Usage
 Open the terminal and navigate to the project directory.
